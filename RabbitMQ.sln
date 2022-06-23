@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1703.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMQ.PostOffice", "RabbitMQ.PostOffice\RabbitMQ.PostOffice.csproj", "{7DC17CE0-FF8A-4CF3-8C1E-54CB6823B25A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DC17CE0-FF8A-4CF3-8C1E-54CB6823B25A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DC17CE0-FF8A-4CF3-8C1E-54CB6823B25A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DC17CE0-FF8A-4CF3-8C1E-54CB6823B25A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DC17CE0-FF8A-4CF3-8C1E-54CB6823B25A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4AF2FA4-05D4-4DCC-BD24-F8E5C311753A}
+	EndGlobalSection
+EndGlobal
